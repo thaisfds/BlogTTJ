@@ -1,0 +1,41 @@
+/*Geral============================================================*/
+body{
+    background-color:black;
+    color: white;
+    padding: 0px;
+    margin: 10px;
+}
+.area{
+    margin-top: 30px;
+    margin: 0 5%;
+    padding: 2%;
+}
+h1{
+    margin-top: 0;
+}
+
+/*jogos============================================================*/
+.universeNightcore{
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+.jogo{
+    margin-top: 2%;
+}
+.jogoscratch{
+    width: 100%;
+}
+.btn-secondary{
+    margin: 2%;
+    background-color: white;
+    border-color: white;
+}
+
+/*Rodapé============================================================*/
+.footer{
+    background-color: rgb(52, 52, 65);
+    margin-top: 30px;
+    text-align: center;
+}
+
+/*============================================================*/
